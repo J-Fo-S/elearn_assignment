@@ -47,13 +47,9 @@ You have the option of video, jupyter notebook or both together to take the less
 
 So, for the zillionth time, let's get started..
 
-### Tasks: To test your understanding and familiarity with the basic techniques of the Billionth Introduction to Python, you can:
-1. Write a function 1hat returns a different result depending if its argument is greater or less than some value, and throws an error if the argument is a string
-2. Write a function that scrambles the words of poem.txt and saves it as a newly named txt file.
-
 ### For further learning:
 
-**[Jupyter Notebook shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
+**[Jupyter Notebook shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)**
 **[Stanford CS231n Python-Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)**
 
 ### Disclosure: This mini online course was designed and produced to fulfill the requirement of “e-learning” offered by Professor Shelley Shwu-ching Young, at National Tsing Hua University, Taiwan, Spring semester, 2008. 
