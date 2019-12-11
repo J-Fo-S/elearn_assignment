@@ -30,7 +30,7 @@ If the install is successful, you should be able to open a "notebook" in your br
 
 *Note that we are using the term **familiarity**, and not something like "mastery".* There are 2 points: the 1st is that you will get better as you go along, so be patient with yourself if you don't understand it all at once. In fact, if you are new to this it would be very surprising if you did. The 2nd point is to remind yourself of the 1st point. 
 
-Also, it doesn't matter, at least to me, whether you are good at math, bad at math, can't even count your toes, or whatever. Programming is also a language, and language is for everyone. That's why this is the Billionth Introduction to Python. So learn the language, or otherwise you won't know what they are saying about you.
+Also, it doesn't matter, at least to me, whether you are good at math, bad at math, can't sleep at night because of math - don't worry. Programming is also a language, and language is for everyone. 
 
 ### Lesson contents
 
@@ -38,6 +38,7 @@ You have the option of video, jupyter notebook or both together to take the less
 
 | Section | Video |
 |---------|-------|
+| Introduction |-------|
 | Basic operations | -- |
 | Data types and conversion | -- |
 | Packages and modules | -- |
